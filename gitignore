@@ -1,6 +1,6 @@
-# Ignore VSCode settings
+# VSCode settings
 .vscode/
 
-# Ignore dist and output folders
+# Build/Distribution folders
 .dist/
 output/
