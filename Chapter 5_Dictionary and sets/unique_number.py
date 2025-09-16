@@ -1,3 +1,4 @@
+#this code is for make a set
 s = set()
 n = input("Enter a number : ")
 s.add(int(n))
