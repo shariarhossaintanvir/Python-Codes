@@ -1,3 +1,4 @@
+#This code is made by me 
 marks = {
     "Shariar" : 100,
     "Oni" : 99,
