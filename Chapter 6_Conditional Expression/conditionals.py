@@ -10,5 +10,6 @@ elif(a==0):
     print("New born baby , drink milk")    
 
 else:
-    print("you have time , take your time to learn")  
+    print("you have time , take your time to learn") 
+     
 print("Thanks for testing me")      
