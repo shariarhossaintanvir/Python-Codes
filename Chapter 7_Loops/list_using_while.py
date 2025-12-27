@@ -1,3 +1,4 @@
+#using while loop to print a list
 l = ["Goru","Chagol","Hathii,","Lion", 2 , 3, ]
 i = 0
 
