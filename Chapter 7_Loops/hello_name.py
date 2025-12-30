@@ -6,4 +6,5 @@ for name in l:
 else:
        print ("No more name found")
              
+    #this program is for cheak the name starts with S
     
