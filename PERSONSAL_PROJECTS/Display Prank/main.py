@@ -19,3 +19,4 @@ def add_shit():
    root.after(500,add_shit)
 add_shit()   
 root.mainloop()
+ # this code is not working , i will work on this tomorrow
