@@ -1,3 +1,5 @@
-import os
-for item in os.listdir('/'):
-    print(item)
+import pyjokes
+joke = pyjokes.get_joke()
+print(joke)
+
+# import a module (pyjokes)
