@@ -1,1 +1,2 @@
-print("Hello world")
+# just print hello niggas
+print ("HELLO NIGGAS")
