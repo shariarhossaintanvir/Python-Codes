@@ -1,4 +1,4 @@
-print(""" Twinkle twinkle little star
+print( '''Twinkle twinkle little star
 How I wonder what you are
 Up above the world so high
 Like a diamond in the sky
@@ -9,4 +9,4 @@ Shining brightly and afar
 Twinkle star dust all around
 From the sky right to the ground
 Twinkle twinkle little star
-Shining brightly and afar""")
+Shining brightly and afar''')
