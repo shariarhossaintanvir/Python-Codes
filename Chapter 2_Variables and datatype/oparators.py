@@ -6,18 +6,18 @@ print(c)
 
 # #Assignment oparators
 
-a = 4-2 # assign 4-2 in a
+a = 4-2 # assign 4-2 in a = 2
 b = 6
-b +=3 #increment the value of b by 3 and assign it into b
-b -=3 #decrement the value of b by 3 and assign it into b
-b *=3 #multiple the value of b by 3 and assign it into b
-b /=3 #divider the value of b by 3 and assign it into b
+b += 3 #increment the value of b by 3 and assign it into b
+b -= 3 #decrement the value of b by 3 and assign it into b
+b *= 3 #multiple the value of b by 3 and assign it into b
+b /= 3 #divider the value of b by 3 and assign it into b
 # print(a)
 print(b)
 
 #comparition oparators
 d=5<4
-print(d)
+print(d) # return is always boolean
 
 
 #logical oparators
